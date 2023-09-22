@@ -6,14 +6,14 @@
 
 <div align="center">
 
-- [x]Integrar uma aplicação com o banco de dados;
+-[x] Integrar uma aplicação com o banco de dados;
 
-- [x]Aprender a utilizar o Factory Pattern e as cláusulas de inserção do SQL para salvar dados no banco;
+-[x] Aprender a utilizar o Factory Pattern e as cláusulas de inserção do SQL para salvar dados no banco;
 
-- [x]Entender como reaproveitar as conexões com o banco de dados usando um pool de conexões;
+-[x] Entender como reaproveitar as conexões com o banco de dados usando um pool de conexões;
 
-- [x]Compreender como fazer alterações em dados já existentes no banco, utilizando a cláusula UPDATE do SQL;
+-[x] Compreender como fazer alterações em dados já existentes no banco, utilizando a cláusula UPDATE do SQL;
 
-- [x]Entender como usar a cláusula DELETE para apagar dados do banco, além de entender como realizar a exclusão lógica;
+-[x] Entender como usar a cláusula DELETE para apagar dados do banco, além de entender como realizar a exclusão lógica;
 
 </div>
